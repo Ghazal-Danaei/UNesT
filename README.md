@@ -37,11 +37,3 @@ python ensemble.py --prob_dir output_from_inference --img_path test_images_path 
 In order to have final results, you'll need to register the data back to their original space. You can use the call_Run_Deep_brain.sh bash file.
 
 
-```python
-
-```
-
-
-```python
-
-```
